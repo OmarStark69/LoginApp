@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821436930863",
+    "project_id": "login-app-aa5dd",
+    "storage_bucket": "login-app-aa5dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821436930863:android:3e3d5a7a2f777320d61fda",
+        "android_client_info": {
+          "package_name": "mx.ipn.cic.geo.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821436930863-76t88gqun2vdjfpha34vohh10a6mpl2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_RWJgOFApMU_yNL-rE4lwKuqjGK5-LxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821436930863-76t88gqun2vdjfpha34vohh10a6mpl2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
